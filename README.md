@@ -1,10 +1,10 @@
-# 📱 Simulação de iPhone com Programação Orientada a Objetos
+# Simulação de iPhone com Programação Orientada a Objetos
 
 Projeto desenvolvido com o objetivo de simular funcionalidades básicas de um **iPhone**, utilizando os conceitos de **Programação Orientada a Objetos (POO)** em Java, com foco em **interfaces, abstração e implementação de classes**.
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 O sistema simula três principais funcionalidades de um smartphone:
 
@@ -16,7 +16,7 @@ Cada funcionalidade foi implementada através de **interfaces**, garantindo flex
 
 ---
 
-## 🧠 Conceitos aplicados
+## Conceitos aplicados
 
 * Interface
 * Implementação de classes
@@ -26,7 +26,7 @@ Cada funcionalidade foi implementada através de **interfaces**, garantindo flex
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 desafios/
@@ -43,9 +43,9 @@ desafios/
 
 ---
 
-## 🔧 Como funciona
+## Como funciona
 
-A classe principal `Iphone` instancia as funcionalidades e executa algumas ações:
+A classe principal Iphone instancia as funcionalidades e executa algumas ações:
 
 ```java
 ReproduzirMusica rm = new ReproduzirMusica();
@@ -59,35 +59,25 @@ ni.adicionarNovaAba();
 
 ---
 
-## 📊 Diagrama UML
+## Diagrama UML
 
 Abaixo está o diagrama UML representando a estrutura do projeto:
 
-![Diagrama UML](./iPhone%20Multimedia-2026-06-11-233413.png)
+<p align="center">
+	<img src="./img/UML-Iphone.png" width="900" height="350"/>
+</p>
 
 ---
 
-## 💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * Java
 * Programação Orientada a Objetos (POO)
 
 ---
 
-## 📌 Objetivo
-
-Este projeto foi desenvolvido como prática para reforçar conceitos fundamentais de POO, especialmente o uso de interfaces e a organização de código em sistemas reais.
-
----
-
-## 🔗 Contato
+## Contato
 
 * [LinkedIn](https://www.linkedin.com/in/mateus-sanjo/)
 * [GitHub](https://github.com/araujosantos20)
 * [Email](mailto:mateus.sanjo20@gmail.com?subject=Contato%20via%20Portif%C3%B3lio)
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
